@@ -1,0 +1,12 @@
+Parallax Shadow version 1.0
+
+To add the parallax effect to an element, simple add a class of "parallaxShadow". You may view a working demo of the program on codepen (http://codepen.io/www139/pen/wWBdWK).
+
+This release has no mobile support since the mouse coordinates are not mobile compatible. If I have time, I will release a version with using touch move for compatibility with mobile devices.
+
+All major desktop browsers should be supported although I have done no thorough testing. However, the script appears to only utilize features that are well supported.
+
+You may contact me with questions or suggestions at 
+william.green145@gmail.com
+william.green@protonmail.com
+William Green
